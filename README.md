@@ -9,6 +9,7 @@
     <li class="c0 li-bullet-0"><span class="c5"><a href="https://www.moneycontrol.com/markets/global-indices/">Global Indices</a> </span></li>
     <li class="c0 li-bullet-0"><span class="c5"><a href="https://www.moneycontrol.com/stocks/marketstats/nselow/index.php">52 Week High/Low  NSE/BSE</a> </span></li>
     <li class="c0 li-bullet-0"><span class="c5"><a href="https://www.moneycontrol.com/stocks/marketstats/onlybuyers.php">Only Buyers / Sellers NSE/BSE</a> </span></li>
+        <li class="c0 li-bullet-0"><span class="c5"><a href="https://www.moneycontrol.com/optionomega">Option Omega</a> </span></li>
     </ul>
     <h3 class="c2 c31" id="h.btnhb4vznhl8"><span class="c10">Summary : </span></h3>
     <ul class="c8 lst-kix_4892l47vf99z-0 start">
