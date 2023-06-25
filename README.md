@@ -54,12 +54,22 @@
     <p class="c17"><span class="c12 c19"></span></p>
     <h4 class="c18" id="h.mu43qcboozqe"><span class="c6">Voitekk Softsol Pvt Ltd, &nbsp;Navi Mumbai</span><span
             class="c14 c24">&nbsp;- Web Developer</span></h4>
-    <p class="c16"><span class="c3">Feb &nbsp;2020 &nbsp;- &nbsp;Aug 2021</span></p>
+    <p class="c16"><span class="c3">Sept &nbsp;2020 &nbsp;- &nbsp;Aug 2021</span></p>
     <ul class="c8 lst-kix_346hmfwinf4s-0">
         <li class="c0 li-bullet-0"><span class="c5 c7">&nbsp;Checking and resolving any bug or issue reported by any
                 client or &nbsp;seniors .</span></li>
         <li class="c0 li-bullet-0"><span class="c5 c7">&nbsp;Building New Features Requested By Clients or
                 Seniors</span></li>
+    </ul>
+    <ul>
+        <p class="c17"><span class="c12 c19"></span></p>
+        <h4 class="c18" id="h.mu43qcboozqe"><span class="c6">Voitekk Softsol Pvt Ltd, &nbsp;Navi Mumbai</span><span
+            class="c14 c24">&nbsp;-  Linux Engineer</span></h4>
+        <li class="c0 li-bullet-0"><span class="c5 c7">Software Application Installation</span></li>
+        <li class="c0 li-bullet-0"><span class="c5 c7">Operating System installation (ubuntu server, centos, windows)</span></li>
+        <li class="c0 li-bullet-0"><span class="c5 c7">Device installation (PRI/GSM gateway, Network phones)</span></li>
+        <li class="c0 li-bullet-0"><span class="c5 c7">MySql Installation (Making Backup Strategy and database sync, mysql server master slave architecture )</span></li>
+        <li class="c0 li-bullet-0"><span class="c5 c7">Writing bash scripts for various needs (auto clean pm2 and node server logs, preventing access to sensitive folder's, not to let any server daemon to use 100% of any processer )</span></li>
     </ul>
     <p class="c9"><span class="c5 c7">1) Added feature to add/remove/update gateway ip and details into xml file From
             frontend, then added button to reload configuration of freeswitch</span></p>
