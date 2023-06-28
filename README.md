@@ -69,6 +69,21 @@
     </ul>
     <p class="c4"><span class="c5 c7">1) voitekk dashboard</span></p>
     <p class="c4"><span class="c25 c7">2) cryptocurrency introduction and lead generation sites</span></p>
+    <p class="c13 c28"><span class="c2"></span></p>
+    <h4 class="c18" id="h.mu43qcboozqe"><span class="c6">Voitekk Softsol Pvt Ltd, &nbsp;Navi Mumbai</span><span
+            class="c14 c24">&nbsp;- Linux Engineer</span></h4>
+    <p class="c12"><span class="c11">Jun 2017 - Aug 2020</span></p>
+    <ul class="c19 lst-kix_sgbdnixhhaum-0 start">
+        <li class="c1 c7 li-bullet-0"><span class="c2">Software Application Installation</span></li>
+        <li class="c1 c7 li-bullet-0"><span class="c2">Operating System installation (ubuntu server, centos,
+                windows)</span></li>
+        <li class="c1 c7 li-bullet-0"><span class="c2">Device installation (PRI/GSM gateway, Network phones)</span></li>
+        <li class="c1 c7 li-bullet-0"><span class="c2">MySql Installation (Making Backup Strategy and database sync,
+                mysql server master slave architecture )</span></li>
+        <li class="c1 c7 li-bullet-0"><span class="c18 c31">Writing bash scripts for various needs (auto clean pm2 and
+                node server logs, preventing access to sensitive folder&#39;s, not to let any server daemon to use 100%
+                of any processer )</span></li>
+    </ul>
     <h3 class="c2" id="h.yn0e3dr3g5jm"><span class="c10 c24 c29">Social Links : </span></h3>
     <p class="c28"><span class="c7 c23">linkedIn : </span><span class="c21 c23 c7"><a class="c1"
                 href="https://www.google.com/url?q=https://www.linkedin.com/in/ankitkumar70777/&amp;sa=D&amp;source=editors&amp;ust=1684521278531385&amp;usg=AOvVaw0I7jPiCTPJEN15dGTcHvtA">https://www.linkedin.com/in/ankitkumar70777/</a></span><span
