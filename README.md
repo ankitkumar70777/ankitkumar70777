@@ -23,7 +23,7 @@
     </ul>
     <h3 class="c2 c31" id="h.nhphs8kobmgi"><span class="c10 c24 c29">Technical Skills : </span></h3>
     <p class="c9"><span class="c5">Language : HTML, CSS, JavaScript, Typescript, Bash Scripting</span></p>
-    <p class="c4"><span class="c5">Froentend : React, Next.js</span></p>
+    <p class="c4"><span class="c5">Froentend : React, Next.js, SCSS, Zustand, Redux</span></p>
     <p class="c4"><span class="c5">Backend : Node.js, Express</span></p>
     <p class="c4"><span class="c5">Cloud : AWS, Azure</span></p>
     <p class="c4"><span class="c5">Tools : Postman, Git</span></p>
