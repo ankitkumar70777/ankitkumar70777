@@ -30,19 +30,16 @@
     <ul class="c8 lst-kix_346hmfwinf4s-0 start">
         <li class="c0 li-bullet-0"><span class="c5">Started and completed  5 page module of global indices to monitor Stocks, Indices, Commodities, Currency, Indian Adr.
 <a href="https://www.moneycontrol.com/markets/global-indices/">(https://www.moneycontrol.com/markets/global-indices/) <a></span></li>
-        <li class="c0 li-bullet-0"><span class="c5">Optimised React / Next.js project code for better performance</span>
+        <li class="c0 li-bullet-0"><span class="c5">Started and Completed 3 page module of commodity  to show major exchanges and market statistics <a href="https://www.moneycontrol.com/commodity/">(https://www.moneycontrol.com/commodity/) <a>
+</span>
         </li>
-        <li class="c0 li-bullet-0"><span class="c5">Started Microsite project / repo &nbsp;from scratch, maintained and
-                submitted </span></li>
-        <li class="c0 li-bullet-0"><span class="c5">Started event management module of 12 days, maintained and submitted
-            </span></li>
-        <li class="c0 li-bullet-0"><span class="c5">API development and modification to match excepted result in
-                frontend, third party integrations</span></li>
-        <li class="c0 li-bullet-0"><span class="c5 c7">Started 5 page module of global indices to monitor stocks,
-                Indices, commodities, currency, Indian Adr and individual stock/indices and commodity consumption pages
-                as well as their technical pages</span></li>
+        <li class="c0 li-bullet-0"><span class="c5">Completed many one page module like only buyers, only sellers, new fund offers.
+ </span></li>
         <li class="c0 li-bullet-0"><span class="c5 c7">Completed many one page module like only buyers, only sellers,
                 new fund offers.</span></li>
+<li class="c0 li-bullet-0"><span class="c5 c7">Optimized React / Next.js project code for better performance.</span></li>
+            <li class="c0 li-bullet-0"><span class="c5">API development and modification to match excepted result in
+                frontend, third party integrations</span></li>
         <li class="c0 li-bullet-0"><span class="c5 c7">Mentored &nbsp;juniors for development and review their
                 code.</span></li>
     </ul>
