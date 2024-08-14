@@ -13,28 +13,23 @@
     </ul>
     <h3 class="c2 c31" id="h.btnhb4vznhl8"><span class="c10">Summary : </span></h3>
     <ul class="c8 lst-kix_4892l47vf99z-0 start">
-        <li class="c0 li-bullet-0"><span class="c5 c7">I am a React developer having good knowledge of Javascript. I
-                have 3 year of experience in web development. </span></li>
+        <li class="c0 li-bullet-0"><span class="c5 c7">Frontend engineer with 3+ years of experience. Developed Frontend of  5+ web apps from scratch, currently being used by over 1M+ users. </span></li>
         <li class="c0 li-bullet-0"><span class="c5 c7">Experienced in writing High quality React code, maintaining
                 project structure, Using best practices, &nbsp;fallowing core software principles &nbsp;to meet High
                 standard in web development, User Experience.</span></li>
-        <li class="c0 li-bullet-0"><span class="c7 c25">I am looking for opportunity &nbsp;as React / NextJs Developer
-                based on my learning and experience.</span></li>
     </ul>
     <h3 class="c2 c31" id="h.nhphs8kobmgi"><span class="c10 c24 c29">Technical Skills : </span></h3>
     <p class="c9"><span class="c5">Language : HTML, CSS, JavaScript, Typescript, Bash Scripting</span></p>
     <p class="c4"><span class="c5">Froentend : React, Next.js, SCSS, Zustand, Redux</span></p>
     <p class="c4"><span class="c5">Backend : Node.js, Express</span></p>
-    <p class="c4"><span class="c5">Cloud : AWS, Azure</span></p>
     <p class="c4"><span class="c5">Tools : Postman, Git</span></p>
-    <p class="c4"><span class="c5">Database : MySql, MongoDB</span></p>
-    <p class="c4"><span class="c25">OS : Linux, Windows, Mac</span></p>
     <h3 class="c2" id="h.5sh58lh512k2"><span class="c10">EXPERIENCE : </span></h3>
     <h4 class="c18" id="h.dtefcpdj46j6"><span class="c6">Eszmeletlen Holding Co, &nbsp;Navi Mumbai</span><span
             class="c14">&nbsp;- React.js Developer &nbsp;(Frontend)</span></h4>
     <p class="c16"><span class="c25 c33">Aug &nbsp;2021 &nbsp;- &nbsp;Present</span></p>
     <ul class="c8 lst-kix_346hmfwinf4s-0 start">
-        <li class="c0 li-bullet-0"><span class="c5">Converted projects from PHP stack to React </span></li>
+        <li class="c0 li-bullet-0"><span class="c5">Started and completed  5 page module of global indices to monitor Stocks, Indices, Commodities, Currency, Indian Adr.
+<a href="https://www.moneycontrol.com/markets/global-indices/">(https://www.moneycontrol.com/markets/global-indices/) <a></span></li>
         <li class="c0 li-bullet-0"><span class="c5">Optimised React / Next.js project code for better performance</span>
         </li>
         <li class="c0 li-bullet-0"><span class="c5">Started Microsite project / repo &nbsp;from scratch, maintained and
