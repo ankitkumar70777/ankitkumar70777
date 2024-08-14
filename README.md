@@ -35,8 +35,6 @@
         </li>
         <li class="c0 li-bullet-0"><span class="c5">Completed many one page module like only buyers, only sellers, new fund offers.
  </span></li>
-        <li class="c0 li-bullet-0"><span class="c5 c7">Completed many one page module like only buyers, only sellers,
-                new fund offers.</span></li>
 <li class="c0 li-bullet-0"><span class="c5 c7">Optimized React / Next.js project code for better performance.</span></li>
             <li class="c0 li-bullet-0"><span class="c5">API development and modification to match excepted result in
                 frontend, third party integrations</span></li>
