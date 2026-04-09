@@ -1,7 +1,7 @@
 <body class="c7 c27 doc-content">
     <p class="c31 c32 title" id="h.5x0d5h95i329"><h2 class="c2 c31" id="h.btnhb4vznhl8"><span class="c10">Ankitkumar ravidas </span></h2></p>
     <p class="c34 subtitle" id="h.sbziogryzzql"><span class="c13">Software Engineer / React Developer</span></p>
-    <p class="c15"><span class="c5">Contact No : 9209497562, &nbsp; Email : ankitkumar70777@gmail.com </span></p>
+    <p class="c15"><span class="c5">Email : ankitkumar70777@gmail.com </span></p>
     <p class="c15"><span class="c5">location : wada(421312), maharashtra</span></p>
     <h3 class="c2 c31" id="h.btnhb4vznhl8"><span class="c10">Personal Projects and Major Task Done At work  </span></h3>
     <ul class="c8 lst-kix_346hmfwinf4s-0 start">
